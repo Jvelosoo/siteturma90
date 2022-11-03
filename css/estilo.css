@@ -1,0 +1,27 @@
+#container{
+    
+    justify-content: left;
+    width: 300px;
+    background-color: #C0C0C0;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+body{
+    margin-left: 40%;
+    margin-top: 10%;
+
+}
+
+.lupa{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    
+    margin-left: 10px;
+}
+
+.botton{
+    margin-left: 20px;
+}
+
