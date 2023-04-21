@@ -1,8 +1,8 @@
-🌟 Site da Turma 90 da EPT 🌟
-Este é um repositório para o projeto do site da Turma 90 do curso de Desenvolvimento Web da escola de programação e tecnologia (EPT). 🎓
+🌟 Site da Turma 90 do SENAC 🌟
+Este é um repositório para o projeto do site da Turma 90 do curso de Desenvolvimento Web do Senac. 🎓
 
 📝 Descrição
-O objetivo deste projeto é criar um site para a turma 90 do curso de Desenvolvimento Web da EPT, com informações relevantes para os alunos, como cronograma de aulas, materiais didáticos, atividades e links úteis. 📚
+O objetivo deste projeto é criar um site para a turma 90, com informações relevantes para os alunos, como cronograma de aulas, materiais didáticos, atividades e links úteis. 📚
 
 💻 Tecnologias
 O site será desenvolvido utilizando as seguintes tecnologias:
