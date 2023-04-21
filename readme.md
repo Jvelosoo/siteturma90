@@ -23,6 +23,6 @@ Copy code
 git clone https://github.com/Jvelosoo/siteturma90.git
 Abra o arquivo index.html em seu navegador de preferência. 🌐
 👨‍💻 Autores
-João Veloso joaoveloso@example.com 🧑‍💼
+João Veloso jveloso4669@gmail.com 🧑‍💼
 📜 Licença
 Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes. 📃
